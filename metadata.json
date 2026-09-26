@@ -1,0 +1,6 @@
+{
+  "name": "BULL",
+  "description": "Step up, say the claim, let the machine decide. Office claim referee and AI detector with authentic vintage ticket styling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
